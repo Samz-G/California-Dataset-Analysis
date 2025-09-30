@@ -35,7 +35,7 @@ Jupyter Notebook
 
 Clone this repository.
 
-Open the notebook file ().
+Open the notebook file (California.ipynb).
 
 Run the cells step by step to reproduce the analysis.
 
